@@ -1,6 +1,6 @@
-# todayidid
+# yikyuk
 
-> a simple todo+calendar SPA
+> yikyak clone to demo a more involved Vue project
 
 ## Build Setup
 
