@@ -1,6 +1,6 @@
 # yikyuk
 
-[live demo](bees.github.io/yikyuk/)
+[live demo](https://bees.github.io/yikyuk/#!/)
 
 > yikyak clone to demo a more involved Vue project
 
