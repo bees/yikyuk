@@ -24,10 +24,18 @@ coverage
 build/Release
 
 # Dependency directory
-node_modules
 
 # Optional npm cache directory
 .npm
 
 # Optional REPL history
 .node_repl_history
+
+# from vue cli
+.DS_Store
+node_modules/
+dist/
+selenium-debug.log
+test/unit/coverage
+test/e2e/reports
+temp/
