@@ -1,6 +1,10 @@
 # yikyuk
 
+[live demo](bees.github.io/yikyuk/)
+
 > yikyak clone to demo a more involved Vue project
+
+
 
 ## Build Setup
 
